@@ -1,6 +1,12 @@
 ## 介绍
 
-​	Splunk 对接微步在线API接口查询IP或者域名是否为恶意
+**Splunk 对接微步在线API接口查询IP或者域名是否为恶意**
+
+## 环境信息
+
+**Splunk 开发版本：8.2.6**
+
+**Python: 3.7.11**
 
 ## 在哪里安装
 
@@ -10,8 +16,6 @@
 | Indexer             | ×               |
 | Heavy Forwarder     | ×               |
 | Universal Forwarder | ×               |
-
-
 
 ## 安装App
 
